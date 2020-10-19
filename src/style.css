@@ -1,8 +1,20 @@
   
 .title{
     font-size: 4em;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: cursive;
+    text-decoration: underline rgba(197, 1, 1, 0.719);
+    
 }
 .red{
-    color: red;
+    color: darkred;
+   
+}
+img {
+    display: inline-flex;
+    width: 500px;
+    height: 500px;
+    border-radius: 15px;
+}
+.App {
+    background-color: rgb(236, 170, 170);
 }
